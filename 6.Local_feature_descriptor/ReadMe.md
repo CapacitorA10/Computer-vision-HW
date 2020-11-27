@@ -1,1 +1,1 @@
-6th : Local Feature Desciption
+6th : Local Feature Desciption using HOG
