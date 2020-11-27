@@ -1,2 +1,2 @@
 # Computer-vision-HW
-For Computer Vision Lecture (2019 Fall)
+For Computer Vision Lecture (2020 Spring)
